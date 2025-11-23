@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+/LinearRegressionCode/LinearRegression/output
+
+# ScanPy的使用
+/ScanPyLearn/output/
+/ScanPyLearn/cache/
+
+# 机器学习（宋冰冰）课堂作业
+/CourseHomeWork/output/
+
+# 生物数据处理（彭宏）相关代码
+/PHCode/Mid-term-quiz-Clustering/output/
+/PHCode/Mid-term-quiz-Clustering/figures/
+/PHCode/Mid-term-quiz-Clustering/cache/
+/PHCode/Mid-term-quiz-Clustering/data/GSM/
+/CourseHomeWork/data5/cifar-10-batches-py
+/CourseHomeWork/data5/cifar-10-python.tar.gz
